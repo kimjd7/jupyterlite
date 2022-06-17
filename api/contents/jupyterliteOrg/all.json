@@ -1,0 +1,109 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-06-17T13:17:52.626130Z",
+      "format": null,
+      "last_modified": "2022-06-17T13:16:46.277894Z",
+      "mimetype": null,
+      "name": "python.ipynb",
+      "path": "jupyterliteOrg/python.ipynb",
+      "size": 12962,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-17T13:17:52.618130Z",
+      "format": null,
+      "last_modified": "2022-06-17T13:16:46.277894Z",
+      "mimetype": null,
+      "name": "p5.ipynb",
+      "path": "jupyterliteOrg/p5.ipynb",
+      "size": 3717,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-17T13:17:52.626130Z",
+      "format": null,
+      "last_modified": "2022-06-17T13:17:52.626130Z",
+      "mimetype": null,
+      "name": "pyolite",
+      "path": "jupyterliteOrg/pyolite",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-17T13:17:52.626130Z",
+      "format": null,
+      "last_modified": "2022-06-17T13:17:52.626130Z",
+      "mimetype": null,
+      "name": "xeus-lua",
+      "path": "jupyterliteOrg/xeus-lua",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-17T13:17:52.626130Z",
+      "format": null,
+      "last_modified": "2022-06-17T13:17:52.626130Z",
+      "mimetype": null,
+      "name": "xeus-wren",
+      "path": "jupyterliteOrg/xeus-wren",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-17T13:17:52.626130Z",
+      "format": null,
+      "last_modified": "2022-06-17T13:17:52.626130Z",
+      "mimetype": null,
+      "name": "xeus-sqlite",
+      "path": "jupyterliteOrg/xeus-sqlite",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-17T13:17:52.618130Z",
+      "format": null,
+      "last_modified": "2022-06-17T13:17:52.618130Z",
+      "mimetype": null,
+      "name": "data",
+      "path": "jupyterliteOrg/data",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-17T13:17:52.618130Z",
+      "format": null,
+      "last_modified": "2022-06-17T13:16:46.277894Z",
+      "mimetype": null,
+      "name": "javascript.ipynb",
+      "path": "jupyterliteOrg/javascript.ipynb",
+      "size": 2179,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-06-17T13:17:52.626130Z",
+  "format": "json",
+  "last_modified": "2022-06-17T13:17:52.626130Z",
+  "mimetype": null,
+  "name": "jupyterliteOrg",
+  "path": "jupyterliteOrg",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

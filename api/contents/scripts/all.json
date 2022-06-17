@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-06-17T13:17:52.630130Z",
+      "format": null,
+      "last_modified": "2022-06-17T13:16:46.281891Z",
+      "mimetype": "text/x-python",
+      "name": "hello-world.py",
+      "path": "scripts/hello-world.py",
+      "size": 45,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-17T13:17:52.630130Z",
+      "format": null,
+      "last_modified": "2022-06-17T13:16:46.281891Z",
+      "mimetype": "text/x-python",
+      "name": "hello-world-in-swedish.py",
+      "path": "scripts/hello-world-in-swedish.py",
+      "size": 70,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-06-17T13:17:52.630130Z",
+  "format": "json",
+  "last_modified": "2022-06-17T13:17:52.630130Z",
+  "mimetype": null,
+  "name": "scripts",
+  "path": "scripts",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
